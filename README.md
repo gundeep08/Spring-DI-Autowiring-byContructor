@@ -1,2 +1,2 @@
 # spring-DI-autowiring
-Design and develop an application with Spring DI by Autowiring.
+Design and develop an application with Spring DI by Autowiring byContructor.
