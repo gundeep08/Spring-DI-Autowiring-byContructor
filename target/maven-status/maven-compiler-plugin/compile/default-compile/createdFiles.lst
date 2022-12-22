@@ -1,0 +1,6 @@
+com/collections/di/books/Book.class
+com/collections/di/books/Category.class
+com/collections/di/books/BookByType.class
+com/collections/di/books/BookBySetter.class
+com/collections/di/books/BookByConstructor.class
+com/collections/di/books/BookByName.class
